@@ -1,0 +1,86 @@
+h1{
+    font-size: 11px;
+}
+#div1{
+    height:50px;
+    width: 50%;
+    background-color: gray;
+}
+#bt1,#bt2,#bt3{
+    width:33%;
+    height:40%;
+    float: left;
+    background-color: aqua;
+}
+#i1,#i2,#i3{
+    height: 40%;
+    width: 50%;
+    display: none;
+
+}
+#bt1:hover,#bt2:hover,#bt3:hover{
+    background-color: blue;
+}
+#bt1:visited,#bt2:active,#bt3:active{
+    background-color: blueviolet;
+}
+
+
+#ci{
+    float: right;
+    margin-top: 5px;
+}
+#fni{
+    float: right;
+    margin-top: 5px;
+}
+#lni{
+    float: right;
+    margin-top: 5px;
+
+}
+#pi{
+    float: right;
+    margin-top: 5px;
+}
+#f{
+    width:50%;
+    height: 190px;
+    line-height: 30px;
+    margin-top: 5%;
+    border: 10px solid red;
+    background-color: aqua;
+    background-size: cover;
+    border-radius: 5px;
+    position: relative;
+    left:0;
+    top: 0;
+}
+#cpi{
+    float: right;
+    margin-top: 5px;
+}
+#b{
+    background-color: darkslategray;
+    align:;
+    position:relative;
+    left:50%;
+    margin-top: 15px;
+}
+#num{
+    display: ;
+}
+#div4{
+    width:30%;
+    height: 190px;
+    line-height: 30px;
+    margin-top: 5%;
+    border: 10px solid red;
+    background-color: aqua;
+    background-size: cover;
+    border-radius: 10px;
+    position: relative;
+    left:0;
+    top: -60%;
+    float: right;
+}
